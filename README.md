@@ -1,4 +1,4 @@
-<div align=center>
+<div >
 	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Sohee%20Kim&fontSize=40&animation=twinkling)
 
