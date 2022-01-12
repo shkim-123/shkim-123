@@ -10,8 +10,8 @@
 
 <div>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://shkim-123.github.io/)](https://shkim-123.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohee-kim-7674ab155/)](https://www.linkedin.com/in/sohee-kim-7674ab155/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://shkim-123.github.io/)](https://shkim-123.github.io/) &nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohee-kim-7674ab155/)](https://www.linkedin.com/in/sohee-kim-7674ab155/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaash133@gmail.com)](mailto:asaash133@gmail.com)	
 
 </div>
