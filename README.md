@@ -1,12 +1,12 @@
+<div align=center>
+	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Sohee%20Kim&fontSize=40&animation=twinkling)
 
-<div>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://shkim-123.github.io/)](https://shkim-123.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohee-kim-7674ab155/)](https://www.linkedin.com/in/sohee-kim-7674ab155/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asaash133@gmail.com)](mailto:asaash133@gmail.com)	
 
-</div>
 
 ## Hi there 👋
 
@@ -18,7 +18,7 @@
 
 ## Skills
 
-<div>
+
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -38,34 +38,29 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>		
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>	
 	
-<div>
-	
-	
-	
 
-<br/>	
-	
-	
-	
-	
-<div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkim-123&theme=aura_dark&show_icons=true)
-
-</div>
-
-	
 	
 
 <br/>
 	
 
 	
+<!-- &hide=stars,commits,prs,issues,contribs -->
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkim-123&theme=aura_dark&show_icons=true&hide=prs&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<br/>
 	
-<div>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkim-123&count_bg=%2377ADE7&title_bg=%23787474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
+
 </div>
 
 
