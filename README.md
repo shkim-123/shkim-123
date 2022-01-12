@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D9ED2&size=20&center=true&vCenter=true&lines=Hi+there,+I'm+sohee)](https://git.io/typing-svg)
 -->
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D9ED2&size=20&lines=Hi+there👋+I'm+Sohee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6F61&size=20&lines=Hi+there👋+I'm+Sohee)](https://git.io/typing-svg)
 
 
 <!--
@@ -25,8 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 	
-<img src="https://github-readme-stats.vercel.app/api?username=shkim-123&theme=material-palenight&show_icons=true&hide_border=true&hide=prs" width=49.2% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=material-palenight&layout=compact&hide_border=true" width=35.8% />
+<img src="https://github-readme-stats.vercel.app/api?username=shkim-123&theme=aura_dark&show_icons=true&hide_border=true&hide=prs" width=49.2% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true" width=35.8% />
 	
 	
 	
