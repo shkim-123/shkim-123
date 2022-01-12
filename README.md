@@ -8,11 +8,7 @@
 
 </div>
 
-<br/>
-
-
-
-### Hi there 👋
+## Hi there 👋
 
 
 
@@ -21,8 +17,6 @@
 
 
 ## Skills
-
-
 
 <div>
 
@@ -39,14 +33,17 @@
 
 <br/>	
 	
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>	
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>		
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>	
 	
 <div>
 	
 	
 	
 
-<br/><br/>	
+<br/>	
 	
 	
 	
