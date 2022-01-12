@@ -1,5 +1,8 @@
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Sohee%20Kim&fontSize=40&animation=twinkling)
+-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+there.+I'm+sohee;Software+Developer)](https://git.io/typing-svg)
 
 <div>
 
@@ -9,9 +12,11 @@
 
 </div>
 
+<!--
+
 ## Hi there 👋
 
-
+-->
 
 
 ## Skills
@@ -43,28 +48,21 @@
 
 </div>
 	
-
-	
 <!-- &hide=stars,commits,prs,issues,contribs -->
-
 
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shkim-123&theme=aura_dark&show_icons=true&hide=prs&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
 </div>
 
-	
-	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshkim-123&count_bg=%2377ADE7&title_bg=%23787474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
 
 
 
 <!--
-
 
 뱃지 url
 https://simpleicons.org/?q=html
