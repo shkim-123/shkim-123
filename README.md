@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=80&section=header&text=sohee%20kim&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Sohee%20Kim&fontSize=40&animation=twinkling)
 
 
 
