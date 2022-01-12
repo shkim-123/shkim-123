@@ -25,8 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 	
-<img src="https://github-readme-stats.vercel.app/api?username=shkim-123&theme=aura_dark&show_icons=true&hide_border=true&hide=prs" width=49.2% />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true" width=35.8% />
+<img src="https://github-readme-stats.vercel.app/api?username=shkim-123&theme=aura_dark&show_icons=true&hide_border=true&hide=prs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shkim-123&theme=aura_dark&layout=compact&hide_border=true"  />
 	
 	
 	
