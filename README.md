@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D9ED2&size=20&center=true&vCenter=true&lines=Hi+there,+I'm+sohee)](https://git.io/typing-svg)
 -->
 	
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6F61&size=20&lines=Hi+there👋+I'm+Sohee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff7b72&size=20&lines=Hi+there👋+I'm+Sohee)](https://git.io/typing-svg)
 
 
 <!--
