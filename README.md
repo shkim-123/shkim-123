@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=80&section=header&text=sohee%20kim&fontSize=40&animation=twinkling)
+
+
 
 ### Hi there 👋
 
